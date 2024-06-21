@@ -12,7 +12,7 @@ import rahulshettyacademy.AbstractComponents.AbstractComponent;
 
 public class CartPage extends AbstractComponent {
 	WebDriver driver;
-
+//comments
 	@FindBy(css = ".totalRow button")
 	WebElement checkoutEle;
 
